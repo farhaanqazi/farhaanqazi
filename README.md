@@ -20,7 +20,7 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 
 ---
 
-### 📊 **Business Intelligence & Dashboarding (Power BI)**
+### **Business Intelligence & Dashboarding (Power BI)**
 
 - **The Bike Shop (SQL & Power BI)**  
   Built a sales and profitability dashboard using SQL-based Power Query and Power BI. Analysed rider behavior, seasonal trends, and hourly            performance, and recommended pricing strategies based on profitability metrics.
@@ -39,9 +39,6 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 
 - **Drug Abuse Mortality Dashboard (Public Health Analytics)**  
   Designed a global dashboard to track deaths caused by drug abuse over decades. Included interactive filters, geospatial visualisations, and         temporal trend analysis for policy insights.
-
-- **COVID-19 Global Visualisation (Power BI)**  
-  Visualised global COVID-19 trends using OWID data, including case rates, vaccination coverage, and regional comparisons through maps and            timelines.
 
 ---
 
