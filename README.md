@@ -6,7 +6,7 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 
 ---
 
-## 💼 Skills
+## Skills
 
 - **Programming & Analysis**: Python, SQL, DAX
 - **Data Visualisation**: Power BI, Matplotlib, Seaborn
@@ -16,7 +16,7 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 
 ---
 
-## 📊 Projects
+## Projects
 
 - **The Bike Shop (SQL & Power BI)**  
   Sales and profitability dashboard analysing rider behavior, seasonal trends, and price strategy recommendations.
