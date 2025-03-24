@@ -9,35 +9,41 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 ## 💼 Skills
 
 - **Programming & Analysis**: Python, SQL, DAX
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Data Visualisation**: Power BI, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, XGBoost, Regression/Classification models, PSO
 - **Tools & Tech**: Git, Excel, MongoDB, PostgreSQL, AWS, GitHub Actions
 - **Soft Skills**: Stakeholder communication, project planning, operations, data storytelling
 
 ---
 
-## 📊 Selected Projects
+## 📊 Projects
 
-- **The Bike Shop (Power BI)**  
+- **The Bike Shop (SQL & Power BI)**  
   Sales and profitability dashboard analysing rider behavior, seasonal trends, and price strategy recommendations.
 
-- **Parkinson’s Disease Diagnosis with ML** *(MSc Project)*  
-  Developed and evaluated SVM, Decision Tree, and Random Forest models enhanced with PSO for disease classification and insight generation.
+- **Patient Wait List Dashboard**  
+  Designed a Power BI dashboard with healthcare-style waitlist data for performance reporting across treatment stages.
 
-- **Death from COPD in the USA** *(Python Analysis)*  
-  Analysed mortality data from 2000–2019, uncovering national trends and public health insights including a consistent 2% annual decline.
+- **Money Matters Dashboard**  
+  Analysed personal banking transactions from Monzo to derive spending insights and visualised budgeting behavior.
 
 - **SQL Data Warehouse Project**  
-  Built a Medallion Architecture (Bronze-Silver-Gold) data warehouse from ERP/CRM data using star schema. Enabled analytics on customer behavior and product trends with clean SQL logic and documentation.
+  Built a Medallion Architecture (Bronze-Silver-Gold) data warehouse from ERP/CRM data using star schema. Enabled analytics on   customer behavior and product trends with clean SQL logic and documentation.
 
 - **Movie Data Analysis (SQL)**  
-  Extracted insights from a large movie dataset, optimised SQL queries to understand genre performance, user preferences, and ratings.
+  Extracted insights from a large movie dataset, optimised SQL queries to understand genre performance, user preferences, and    ratings.
 
-- **COVID-19 Global Visualisation (Power BI)**  
-  Mapped global case trends, vaccine coverage, and regional spikes using OWID data with time series and geographic visuals.
+- **Parkinson’s Disease Diagnosis with ML** *(MSc Project)*  
+  Developed and evaluated SVM, Decision Tree, and Random Forest models enhanced with PSO for disease classification and          insight generation.
+
+- **Death from COPD in the USA** *(Python Analysis)*  
+  Analysed mortality data from 2000–2019, uncovering national trends and public health insights including a consistent 2%        annual decline.
 
 - **Automated ML Pipeline (CI/CD with AWS)**  
-  Created an end-to-end machine learning pipeline with automated data ingestion, model retraining, monitoring, and deployment using GitHub Actions and AWS Elastic Beanstalk.
+  Created an end-to-end machine learning pipeline with automated data ingestion, model retraining, monitoring, and deployment    using GitHub Actions and AWS Elastic Beanstalk.
+  
+- **COVID-19 Global Visualisation (D3.js)**  
+  Mapped global case trends, vaccine coverage, and regional spikes using OWID data with time series and geographic visuals.
 
 - **Edinburgh Bus Location Tracker**  
   Real-time tracking system using MongoDB and PostgreSQL for bus movement management and live updates.
@@ -48,21 +54,15 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 - **Car Selling Price Prediction**  
   Built a linear regression model achieving R² = 0.82 and MAE of 985 to estimate used car prices based on historical data.
 
-- **Patient Wait List Dashboard**  
-  Designed a Power BI dashboard with healthcare-style waitlist data for performance reporting across treatment stages.
-
-- **Money Matters Dashboard**  
-  Analysed personal banking transactions from Monzo to derive spending insights and visualised budgeting behavior.
-
 ---
 
-## 🧪 Certifications
+## Certifications
 
 - **Supervised Machine Learning: Regression and Classification** – Coursera
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Sight Scotland** – *Admin Assistant (Proofreading & Transcription)*  
 *Sep 2024 – Present | Edinburgh, UK*  
@@ -82,10 +82,10 @@ Planned and coordinated construction programs, performed quantity estimation, an
 
 ---
 
-## 🎓 Education
+## Education
 
 **MSc in Data Science** – Heriot-Watt University, UK  
-**BTech in Civil Engineering** – University of Kashmir, India
+**BEng in Civil** – University of Kashmir, India
 
 ---
 
