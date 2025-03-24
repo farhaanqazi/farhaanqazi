@@ -16,43 +16,71 @@ I enjoy working across SQL, Python, and Power BI to make sense of data — wheth
 
 ---
 
-## Projects
+## Projects 
+
+---
+
+### 📊 **Business Intelligence & Dashboarding (Power BI)**
 
 - **The Bike Shop (SQL & Power BI)**  
-  Sales and profitability dashboard analysing rider behavior, seasonal trends, and price strategy recommendations.
+  Built a sales and profitability dashboard using SQL-based Power Query and Power BI. Analysed rider behavior, seasonal trends, and hourly            performance, and recommended pricing strategies based on profitability metrics.
 
-- **Patient Wait List Dashboard**  
-  Designed a Power BI dashboard with healthcare-style waitlist data for performance reporting across treatment stages.
+- **Patient Wait List Dashboard (NHS-style Dataset)**  
+  Created an interactive Power BI dashboard to track patient wait times and appointment efficiency, aligned with NHS-style reporting. Offered         insights for improving resource allocation and service delivery.
 
-- **Money Matters Dashboard**  
-  Analysed personal banking transactions from Monzo to derive spending insights and visualised budgeting behavior.
+- **Money Matters Dashboard (Personal Banking – Monzo)**  
+  Developed a financial analytics dashboard using two years of Monzo data to track income, expenses, and savings trends. Included currency-wise       visualisations, DAX-based KPIs, and budgeting insights.
 
+- **Supermarket Sales Dashboard (Retail Analytics)**  
+  Designed a real-time Power BI dashboard to analyse customer behaviour, sales trends, and product performance across multiple stores. Included       slicers for payment methods, locations, and product categories.
+
+- **Credit Card Transactions Dashboard (Financial Analytics)**  
+  Built a Power BI dashboard to monitor transaction volume, interest income, and customer segmentation by income and occupation. Implemented          seasonal revenue tracking and custom DAX calculations.
+
+- **Drug Abuse Mortality Dashboard (Public Health Analytics)**  
+  Designed a global dashboard to track deaths caused by drug abuse over decades. Included interactive filters, geospatial visualisations, and         temporal trend analysis for policy insights.
+
+- **COVID-19 Global Visualisation (Power BI)**  
+  Visualised global COVID-19 trends using OWID data, including case rates, vaccination coverage, and regional comparisons through maps and            timelines.
+
+---
+
+### **Data Engineering & SQL Projects**
 - **SQL Data Warehouse Project**  
-  Built a Medallion Architecture (Bronze-Silver-Gold) data warehouse from ERP/CRM data using star schema. Enabled analytics on   customer behavior and product trends with clean SQL logic and documentation.
+  Built a Medallion Architecture (Bronze–Silver–Gold) data warehouse from ERP/CRM data using a star schema for analytical reporting on customer       behavior and sales performance.
 
 - **Movie Data Analysis (SQL)**  
-  Extracted insights from a large movie dataset, optimised SQL queries to understand genre performance, user preferences, and    ratings.
-
-- **Parkinson’s Disease Diagnosis with ML** *(MSc Project)*  
-  Developed and evaluated SVM, Decision Tree, and Random Forest models enhanced with PSO for disease classification and          insight generation.
-
-- **Death from COPD in the USA** *(Python Analysis)*  
-  Analysed mortality data from 2000–2019, uncovering national trends and public health insights including a consistent 2%        annual decline.
-
-- **Automated ML Pipeline (CI/CD with AWS)**  
-  Created an end-to-end machine learning pipeline with automated data ingestion, model retraining, monitoring, and deployment    using GitHub Actions and AWS Elastic Beanstalk.
-  
-- **COVID-19 Global Visualisation (D3.js)**  
-  Mapped global case trends, vaccine coverage, and regional spikes using OWID data with time series and geographic visuals.
+  Extracted insights from a movie dataset using complex SQL queries to assess genre popularity, viewer preferences, and film ratings.
 
 - **Edinburgh Bus Location Tracker**  
-  Real-time tracking system using MongoDB and PostgreSQL for bus movement management and live updates.
+  Developed a real-time system using MongoDB and PostgreSQL to monitor and manage dynamic bus movements for Edinburgh Lothian Buses.
+
+---
+
+### **Machine Learning & Predictive Modeling**
+- **Parkinson’s Disease Diagnosis (MSc Project)**  
+  Developed SVM, Decision Tree, and Random Forest models enhanced with PSO to classify Parkinson’s disease. Evaluated and visualised classification   performance.
+
+- **Death from COPD in the USA**  
+  Analysed 20 years of public health data to uncover national and state-level mortality trends. Identified a 2% average annual decline and regional   disparities.
 
 - **Energy Consumption Forecasting**  
-  Time series forecasting using XGBoost and cross-validation to predict energy usage, with visual evaluation and RMSE analysis.
+  Used XGBoost and time series cross-validation to predict future energy usage. Included RMSE evaluation and visual analysis.
 
 - **Car Selling Price Prediction**  
-  Built a linear regression model achieving R² = 0.82 and MAE of 985 to estimate used car prices based on historical data.
+  Built a regression model in Python with R² = 0.82 to estimate used car prices. Analysed feature importance and accuracy using MAE and RMSE.
+
+---
+
+### **End-to-End Pipelines & Automation**
+- **Automated ML Pipeline (CI/CD with AWS)**  
+  Engineered a fully automated ML pipeline for real-time predictions. Included data ingestion, model retraining, monitoring, and deployment with      GitHub Actions + AWS Elastic Beanstalk.
+
+---
+
+### **Custom Visualisation (Code-Based)**
+- **COVID-19 Global Visualisation (D3.js)**  
+  Built an interactive visualisation tool using D3.js to show global COVID-19 patterns, vaccination rates, and regional hotspots.
 
 ---
 
