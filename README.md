@@ -1,6 +1,6 @@
 # Hi, I'm Farhaan Qazi
 
-Data Analyst with a Master's in Data Science and a passion for solving real-world problems through data. I blend analytics, machine learning, and storytelling to uncover insights that drive smarter decisions.
+Data Professional with a Master's in Data Science and a passion for solving real-world problems through data. I blend analytics, machine learning, and storytelling to uncover insights that drive smarter decisions.
 
 I enjoy working across SQL, Python, and Power BI to make sense of data — whether it’s forecasting trends, streamlining processes, or building intuitive dashboards that tell a story.
 
