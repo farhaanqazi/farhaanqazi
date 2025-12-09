@@ -1,124 +1,146 @@
 # Hi, I'm Farhaan Qazi
 
-Data Professional with a Master's in Data Science and a passion for solving real-world problems through data. I blend analytics, machine learning, and storytelling to uncover insights that drive smarter decisions.
+Data Professional with a Master’s in Data Science and a passion for solving real-world problems through data. I blend analytics, machine learning, and clear storytelling to uncover insights that drive smarter decisions.
 
-I enjoy working across SQL, Python, and Power BI to make sense of data — whether it’s forecasting trends, streamlining processes, or building intuitive dashboards that tell a story.
-
----
-
-## Skills
-
-- **Programming & Analysis**: Python, SQL, DAX
-- **Data Visualisation**: Power BI, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, XGBoost, Regression/Classification models, PSO
-- **Tools & Tech**: Git, Excel, MongoDB, PostgreSQL, AWS, GitHub Actions
-- **Soft Skills**: Stakeholder communication, project planning, operations, data storytelling
+I enjoy working across SQL, Python, and Power BI to make sense of data — whether it’s forecasting trends, improving service performance, or building intuitive dashboards that tell a story.
 
 ---
 
-## Projects 
+## 🛠 Skills
+
+- **Programming & Analysis:** Python, SQL, DAX  
+- **Data Visualisation:** Power BI, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, XGBoost, Regression/Classification, PSO  
+- **Tools & Tech:** Git, Excel, MongoDB, PostgreSQL, AWS, GitHub, Hugging Face Actions  
+- **Soft Skills:** Stakeholder communication, data validation, project planning, operational insight, data storytelling  
 
 ---
 
-### **Business Intelligence & Dashboarding (Power BI)**
+## 🚀 Currently Working On
 
-- **The Bike Shop (SQL & Power BI)**  
-  Built a sales and profitability dashboard using SQL-based Power Query and Power BI. Analysed rider behavior, seasonal trends, and hourly            performance, and recommended pricing strategies based on profitability metrics.
+### **AI-Powered Dashboard Generator (End-to-End Intelligent Analytics App)**  
+Developing an AI-driven web application that automatically performs EDA, generates KPIs, identifies anomalies, and produces dynamic visualisations and dashboard from any dataset.
 
-- **Patient Wait List Dashboard (NHS-style Dataset)**  
-  Created an interactive Power BI dashboard to track patient wait times and appointment efficiency, aligned with NHS-style reporting. Offered         insights for improving resource allocation and service delivery.
+- Full analytics engine with **dataset profiling, correlation detection, KPI scoring, trend analysis**  
+- Advanced **column role analyser** using semantic tags + confidence scoring  
+- Auto-chart generation with fallback heuristics  
+- Modern UI built using **TailwindCSS + DaisyUI**  
+- Designed for scalability and deployment on **Hugging Face**  
+- Modular backend architecture for seamless extension  
 
-- **Money Matters Dashboard (Personal Banking – Monzo)**  
-  Developed a financial analytics dashboard using two years of Monzo data to track income, expenses, and savings trends. Included currency-wise       visualisations, DAX-based KPIs, and budgeting insights.
-
-- **Supermarket Sales Dashboard (Retail Analytics)**  
-  Designed a real-time Power BI dashboard to analyse customer behaviour, sales trends, and product performance across multiple stores. Included       slicers for payment methods, locations, and product categories.
-
-- **Credit Card Transactions Dashboard (Financial Analytics)**  
-  Built a Power BI dashboard to monitor transaction volume, interest income, and customer segmentation by income and occupation. Implemented          seasonal revenue tracking and custom DAX calculations.
-
-- **Drug Abuse Mortality Dashboard (Public Health Analytics)**  
-  Designed a global dashboard to track deaths caused by drug abuse over decades. Included interactive filters, geospatial visualisations, and         temporal trend analysis for policy insights.
+This project integrates data intelligence, ML heuristics, backend engineering, and UI/UX in one system.
 
 ---
 
-### **Data Engineering & SQL Projects**
-- **SQL Data Warehouse Project**  
-  Built a Medallion Architecture (Bronze–Silver–Gold) data warehouse from ERP/CRM data using a star schema for analytical reporting on customer       behavior and sales performance.
+## 📊 Projects
 
-- **Movie Data Analysis (SQL)**  
-  Extracted insights from a movie dataset using complex SQL queries to assess genre popularity, viewer preferences, and film ratings.
+### **Business Intelligence & Power BI Dashboards**
 
-- **Edinburgh Bus Location Tracker**  
-  Developed a real-time system using MongoDB and PostgreSQL to monitor and manage dynamic bus movements for Edinburgh Lothian Buses.
+#### **The Bike Shop (SQL & Power BI)**  
+Built a sales and profitability dashboard using SQL-based modelling. Analysed rider behaviour, seasonal patterns, and hourly performance while recommending pricing strategies.
 
----
+#### **Patient Wait List Dashboard (NHS-style)**  
+Created an NHS-style dashboard to analyse wait times, capacity, and appointment bottlenecks. Provided actionable insights for operational improvement.
 
-### **Machine Learning & Predictive Modeling**
-- **Parkinson’s Disease Diagnosis (MSc Project)**  
-  Developed SVM, Decision Tree, and Random Forest models enhanced with PSO to classify Parkinson’s disease. Evaluated and visualised classification   performance.
+#### **Money Matters Dashboard (Monzo Personal Banking)**  
+Analysed two years of Monzo banking data to uncover income/expense trends. Designed category-wise visuals and DAX-based KPIs for budgeting.
 
-- **Death from COPD in the USA**  
-  Analysed 20 years of public health data to uncover national and state-level mortality trends. Identified a 2% average annual decline and regional   disparities.
+#### **Supermarket Sales Dashboard (Retail Analytics)**  
+Built an operational dashboard to analyse customer behaviour, category performance, and revenue trends with interactive slicers.
 
-- **Energy Consumption Forecasting**  
-  Used XGBoost and time series cross-validation to predict future energy usage. Included RMSE evaluation and visual analysis.
-
-- **Car Selling Price Prediction**  
-  Built a regression model in Python with R² = 0.82 to estimate used car prices. Analysed feature importance and accuracy using MAE and RMSE.
+#### **Credit Card Transactions Dashboard (Financial Analytics)**  
+Analysed transaction patterns, interest earnings, and customer profiles. Included seasonal revenue metrics and financial KPIs.
 
 ---
 
-### **End-to-End Pipelines & Automation**
-- **Automated ML Pipeline (CI/CD with AWS)**  
-  Engineered a fully automated ML pipeline for real-time predictions. Included data ingestion, model retraining, monitoring, and deployment with      GitHub Actions + AWS Elastic Beanstalk.
+## 🛠 Data Engineering & SQL Projects
+
+#### **SQL Data Warehouse (Medallion Architecture)**  
+Built a Medallion Architecture (Bronze–Silver–Gold) warehouse for ERP/CRM data. Designed a full star schema enabling analytical reporting.
+
+#### **Movie Data Analysis (SQL)**  
+Performed advanced SQL analysis to uncover genre popularity and rating distributions.
+
+#### **Edinburgh Bus Location Tracker**  
+Developed a real-time MongoDB + PostgreSQL system to track dynamic bus movements across Edinburgh.
 
 ---
 
-### **Custom Visualisation (Code-Based)**
-- **COVID-19 Global Visualisation (D3.js)**  
-  Built an interactive visualisation tool using D3.js to show global COVID-19 patterns, vaccination rates, and regional hotspots.
+## 🤖 Machine Learning & Predictive Modelling
+
+#### **Parkinson’s Disease Diagnosis (MSc Project)**  
+Built classification models (SVM, Decision Tree, Random Forest + PSO) to diagnose Parkinson’s disease. Included performance evaluation and result visualisation.
+
+#### **COPD Mortality Analysis (USA)**  
+Analysed 20 years of public health data to detect regional mortality differences and long-term trends.
+
+#### **Energy Consumption Forecasting**  
+Used XGBoost and time-series validation to forecast energy usage; evaluated via RMSE and plotted predictions.
+
+#### **Car Selling Price Prediction**  
+Developed a regression model achieving **R² = 0.82** for accurate price prediction.
 
 ---
 
-## Certifications
+## ⚙ End-to-End ML & Automation
+
+#### **Automated ML Pipeline (CI/CD + AWS)**  
+Built a full ML pipeline for automated ingestion, training, monitoring, and deployment using GitHub Actions and AWS Elastic Beanstalk.
+
+---
+
+## 🌐 Custom Visualisation
+
+#### **COVID-19 Global Visualisation (D3.js)**  
+Created fully interactive D3.js-based global COVID-19 visualisations showcasing spread, vaccination rates, and time-based patterns.
+
+---
+
+## 🎓 Certifications
 
 - **Supervised Machine Learning: Regression and Classification** – Coursera
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-**Sight Scotland** – *Admin Assistant (Proofreading & Transcription)*  
-*Sep 2024 – Present | Edinburgh, UK*  
-Proofread and transcribed documents to ensure clarity, accuracy, and compliance. Worked collaboratively to improve production workflows.
+### **Leeds Teaching Hospitals NHS Trust – Data Manager (Adult Diabetes Service)**  
+*June 2025 – Present | Leeds, UK*  
+- Manage and validate clinical datasets for national NHS Diabetes audits.  
+- Improve data quality and streamline workflows with clinical teams.  
+- Build dashboards and analytical outputs for service evaluation and QI initiatives.
 
-**Prestonfield House Hotel** – *Operations Support Assistant*  
+### **Sight Scotland – Document Production Processor**  
+*Sep 2024 – February 2025 | Edinburgh, UK*  
+Ensured accurate, compliant, and high-quality document production across multiple workflows.
+
+### **Prestonfield House Hotel – Operations Support Assistant**  
 *May 2022 – Sep 2024 | Edinburgh, UK*  
-Supported daily operations including order processing, secure payment handling, and guest service resolution.
+Supported daily operations, handled secure transactions, and resolved guest service issues.
 
-**J&K Bank** – *Finance Manager*  
+### **J&K Bank – Finance Manager**  
 *Mar 2017 – Jan 2022 | Delhi, India*  
-Managed foreign exchange processes and led a team overseeing £1M in weekly transactions. Implemented data-driven loan risk strategies.
+Oversaw £1M weekly foreign exchange transactions and implemented risk-based strategies for loan approvals.
 
-**Vijay Nirman Company** – *Planning Engineer*  
+### **Vijay Nirman Company – Planning Engineer**  
 *Apr 2014 – Jun 2015 | Delhi, India*  
-Planned and coordinated construction programs, performed quantity estimation, and improved site operations with CAD tools.
+Planned construction schedules, coordinated site operations, and improved workflows through technical analysis.
 
 ---
 
-## Education
+## 🎓 Education
 
 **MSc in Data Science** – Heriot-Watt University, UK  
-**BEng in Civil** – University of Kashmir, India
+**BEng in Civil Engineering** – University of Kashmir, India
 
 ---
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/farhaan-qazi/)  
-- [Portfolio](https://www.novypro.com/profile_projects/farhaanqazi)  
-- [Email](mailto:qazifarhaan@email.com)
+- **LinkedIn:** https://www.linkedin.com/in/farhaan-qazi/  
+- **Portfolio:** https://www.novypro.com/profile_projects/farhaanqazi  
+- **GitHub:** https://github.com/farhaanqazi  
+- **Email:** qazifarhaan@gmail.com  
 
 ---
 
