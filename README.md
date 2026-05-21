@@ -1,147 +1,103 @@
 # Hi, I'm Farhaan Qazi
 
-Data Professional with a Master's in Data Science and a passion for solving real-world problems through data. I blend analytics, machine learning, and engineering to uncover insights that drive smarter decisions — and increasingly, to build systems that think, speak, and learn.
+**Reporting & Analysis • Data Analytics • Business Intelligence**
 
-I work across Python, SQL, and Power BI, whether that's forecasting trends, improving service performance, or shipping end-to-end intelligent applications.
+Results-oriented analyst with **8+ years of cross-industry experience** preparing daily, weekly, and periodic business performance reports for senior stakeholders. Advanced Excel and Power BI practitioner with a Master's in Data Science — bringing rare **automation capability** (Python, SQL, CI/CD pipelines) to traditional reporting and analysis functions.
 
----
+Proven track record of extracting data from multiple sources, building executive-ready dashboards, and delivering ad-hoc analysis under tight deadlines. Financial domain expertise from five years in banking; EMEA reporting exposure from NHS roles in the UK. A self-starter comfortable owning end-to-end reporting cycles independently.
 
-## 🛠 Skills
-
-- **Programming & Analysis:** Python, SQL, DAX
-- **Data Visualisation:** Power BI, Matplotlib, Seaborn, D3.js
-- **Machine Learning:** Scikit-learn, XGBoost, Regression/Classification, PSO
-- **AI & NLP:** Hugging Face Transformers, OpenAI Whisper, LLM Integration, Prompt Engineering
-- **Tools & Tech:** Git, Excel, MongoDB, PostgreSQL, AWS, GitHub Actions, Hugging Face
-- **Soft Skills:** Stakeholder communication, data validation, project planning, operational insight, data storytelling
+📍 New Delhi, India
 
 ---
 
-## 🚀 Currently Working On
+## 🧭 Core Competencies
 
-### **Local Real-Time Voice Agent**
-Building a fully local, privacy-first voice assistant pipeline that collects structured information through natural spoken conversation — no cloud, no third-party APIs at runtime.
-
-- End-to-end pipeline: **Microphone → Whisper STT → Qwen LLM → pyttsx3 TTS → Speakers**
-- Encrypted local storage using **AES-256-GCM** via SQLite, with SHA-256 hashed lookups for sensitive fields
-- Intelligent **dialog manager** with PII extraction, field-level confirmation guards, and correction intent detection
-- Multiple interfaces: CLI, Tkinter GUI, and terminal controller — all sharing a unified orchestration layer
-- Hardened for production: thread-safe audio buffer management, async event loop isolation per thread, and strict startup config validation
-- Fully offline after model download — designed for data-sensitive environments where privacy is non-negotiable
-
-### **AI-Powered Dashboard Generator**
-Developing an AI-driven web application that automatically performs EDA, generates KPIs, identifies anomalies, and produces dynamic visualisations from any dataset.
-
-- Full analytics engine with **dataset profiling, correlation detection, KPI scoring, and trend analysis**
-- Advanced **column role analyser** using semantic tags and confidence scoring
-- Auto-chart generation with fallback heuristics
-- Modern UI built with **TailwindCSS + DaisyUI**
-- Designed for scalability and deployment on **Hugging Face**
-- Modular backend architecture for seamless extension
+| | |
+|---|---|
+| 📊 Daily / Weekly / Periodic Reporting | 📈 Power BI Dashboard Development |
+| 📋 Advanced Excel (PivotTables, VLOOKUP, Power Query) | 🗄️ SQL — Data Extraction & Summarisation |
+| 🤖 Report Automation (Python, GitHub Actions, AWS) | 📑 PowerPoint — C-Suite Presentations |
+| 📐 KPI Tracking & Operational Metrics | 🌐 EMEA Business Reporting |
+| 🔍 Ad-hoc Analysis & Data Visualisation | ✅ UAT Support & Process Onboarding |
+| 📁 Data Governance & Compliance Reporting | 🔗 Cross-functional Stakeholder Engagement |
 
 ---
 
-## 📊 Projects
+## 🛠 Technical Skills
 
-### **Business Intelligence & Power BI Dashboards**
-
-#### **The Bike Shop (SQL & Power BI)**
-Built a sales and profitability dashboard using SQL-based modelling. Analysed rider behaviour, seasonal patterns, and hourly performance while recommending data-driven pricing strategies.
-
-#### **Patient Wait List Dashboard (NHS-style)**
-Created an NHS-style dashboard to analyse wait times, capacity, and appointment bottlenecks. Provided actionable insights for operational improvement.
-
-#### **Money Matters Dashboard (Monzo Personal Banking)**
-Analysed two years of Monzo banking data to uncover income and expense trends. Designed category-wise visuals and DAX-based KPIs for budgeting clarity.
-
-#### **Supermarket Sales Dashboard (Retail Analytics)**
-Built an operational dashboard to analyse customer behaviour, category performance, and revenue trends with interactive slicers.
-
-#### **Credit Card Transactions Dashboard (Financial Analytics)**
-Analysed transaction patterns, interest earnings, and customer profiles. Included seasonal revenue metrics and financial KPIs.
+- **Reporting & BI:** Power BI (DAX, Power Query), Advanced Excel (PivotTables, VLOOKUP, INDEX-MATCH, Charts), PowerPoint, Word, Outlook
+- **Data & Automation:** Python, SQL, ETL Processes, GitHub Actions (CI/CD), AWS, Predictive Modelling, XGBoost, Time-Series Analysis
+- **Domain Knowledge:** Financial KPIs & Reporting (Banking), Healthcare Operational Metrics (NHS/EMEA), Data Governance & Compliance, Audit Readiness
 
 ---
 
-## 🛠 Data Engineering & SQL Projects
+## 📊 Reporting, Analytics & Automation Projects
+
+#### **Power BI Business Performance Dashboards**
+Built interactive dashboards tracking revenue trends, customer behaviour, churn signals, and segmentation — enabling proactive reporting equivalent to EMEA firm-level management reporting. Implemented dynamic DAX measures and time-series visualisations to surface seasonal and quarterly performance shifts for executive-level financial planning.
+
+#### **NHS Performance Reporting — Power BI + Excel**
+Produced compliance-grade dashboards monitoring NHS wait times, activity trends, and operational KPIs — delivering clear executive visuals for C-suite and senior leadership review in a regulated EMEA environment.
+
+#### **Automated ML Reporting Pipeline — Python, GitHub Actions, AWS**
+Built a fully automated end-to-end pipeline (data ingestion → model deployment) with CI/CD via GitHub Actions and AWS — eliminating manual reporting intervention and enabling real-time performance monitoring at production scale. A concrete example of translating manual, periodic processes into scalable reporting workflows.
+
+#### **Financial Analytics Dashboard — Power BI**
+Credit card transaction dashboard tracking revenue, transaction volume, and interest earned, with customer segmentation by income and spending behaviour — directly replicable for geography or business-area financial reporting.
 
 #### **SQL Data Warehouse (Medallion Architecture)**
-Built a Medallion Architecture (Bronze–Silver–Gold) warehouse for ERP/CRM data. Designed a full star schema enabling analytical reporting.
-
-#### **Movie Data Analysis (SQL)**
-Performed advanced SQL analysis to uncover genre popularity and rating distributions.
-
-#### **Edinburgh Bus Location Tracker**
-Developed a real-time MongoDB + PostgreSQL system to track dynamic bus movements across Edinburgh.
+Built a Bronze–Silver–Gold warehouse for ERP/CRM data with a full star schema, enabling clean analytical reporting from raw source systems.
 
 ---
 
-## 🤖 Machine Learning & Predictive Modelling
+## 🤖 Automation & Applied Data Tools
 
-#### **Parkinson's Disease Diagnosis (MSc Project)**
-Built classification models (SVM, Decision Tree, Random Forest + PSO) to diagnose Parkinson's disease. Included performance evaluation and result visualisation.
+Beyond traditional reporting, I build tools that automate the manual parts of analysis end-to-end:
 
-#### **COPD Mortality Analysis (USA)**
-Analysed 20 years of public health data to detect regional mortality differences and long-term trends.
-
-#### **Energy Consumption Forecasting**
-Used XGBoost and time-series validation to forecast energy usage; evaluated via RMSE with plotted predictions.
-
-#### **Car Selling Price Prediction**
-Developed a regression model achieving **R² = 0.82** for accurate price prediction.
-
----
-
-## ⚙ End-to-End ML & Automation
-
-#### **Automated ML Pipeline (CI/CD + AWS)**
-Built a full ML pipeline for automated ingestion, training, monitoring, and deployment using GitHub Actions and AWS Elastic Beanstalk.
-
----
-
-## 🌐 Custom Visualisation
-
-#### **COVID-19 Global Visualisation (D3.js)**
-Created fully interactive D3.js-based global COVID-19 visualisations showcasing spread, vaccination rates, and time-based patterns.
-
----
-
-## 🎓 Certifications
-
-- **Supervised Machine Learning: Regression and Classification** – Coursera
+- **AI-Powered Dashboard Generator** — a web app that ingests any CSV and auto-builds an interactive dashboard: dataset profiling, KPI selection, anomaly detection, and adaptive charts, with streaming progress for large files. *(FastAPI · React · Plotly · Docker)*
+- **LogiAudit** — a self-serve tool that audits third-party warehouse invoices against order data and returns a provable, itemised list of overcharges. Every figure is plain arithmetic against contract terms — no guesswork. *(Next.js · TypeScript)*
+- **Churn Intelligence Engine** — validates a customer dataset, scores churn risk with a rule-based engine, and generates a PDF report, with CI on every push. *(Python · Streamlit)*
+- **Automated ML Pipeline (CI/CD + AWS)** — ingestion, training, monitoring, and deployment via GitHub Actions and AWS Elastic Beanstalk.
 
 ---
 
 ## 💼 Professional Experience
 
-### **Leeds Teaching Hospitals NHS Trust – Data Manager (Adult Diabetes Service)**
-*June 2025 – December 2025 | Leeds, UK*
-- Manage and validate clinical datasets for national NHS Diabetes audits.
-- Improve data quality and streamline workflows in collaboration with clinical teams.
-- Build dashboards and analytical outputs for service evaluation and quality improvement initiatives.
+### **Client Success & Data Coordinator** — Leeds Teaching Hospitals NHS Trust
+*Jun 2025 – Dec 2025 | Leeds, UK*
+- Prepared and maintained periodic performance reports for senior leadership — monitoring data accuracy KPIs, audit readiness metrics, and operational health indicators across the Adult Diabetes Service.
+- Extracted data from multiple clinical sources, summarised trends, and delivered tailored ad-hoc reports enabling early intervention and long-term service optimisation.
+- Built compliance-grade Excel and Power BI dashboards tracking activity trends, wait times, and resource allocation KPIs.
+- Supported onboarding of new datasets and stakeholder training on data governance standards, contributing to UAT-style validation processes.
 
-### **Sight Scotland – Document Production Processor**
-*Sep 2024 – February 2025 | Edinburgh, UK*
-Ensured accurate, compliant, and high-quality document production across multiple workflows.
+### **Client Support & Operations Specialist** — Sight Scotland
+*Sep 2024 – Feb 2025 | Edinburgh, UK*
+- Redesigned document workflows and reporting processes, eliminating errors and enhancing output quality in a high-volume environment.
+- Coordinated cross-functional teams to resolve data and process issues, maintaining strict version control and zero-error reporting under deadline pressure.
 
-### **Prestonfield House Hotel – Operations Support Assistant**
+### **Customer Experience & Operations Lead** — Prestonfield House Hotel
 *May 2022 – Sep 2024 | Edinburgh, UK*
-Supported daily operations, handled secure transactions, and resolved guest service issues.
+- Monitored and analysed engagement and operational metrics, producing regular management reports that informed resource allocation and service improvements.
+- Managed end-to-end operational reporting cycles including daily reconciliation, performance summaries, and executive briefings.
 
-### **J&K Bank – Finance Manager**
+### **Account Manager** — J&K Bank
 *Mar 2017 – Jan 2022 | Delhi, India*
-Oversaw £1M weekly foreign exchange transactions and implemented risk-based strategies for loan approvals.
+- Prepared daily, weekly, and monthly KPI reports — summarising client transaction data, portfolio performance, and churn indicators to inform strategic decisions.
+- Built Excel-based financial reporting tools tracking revenue trends, account health, and operational KPIs.
+- Analysed data across multiple banking systems to identify risk signals, providing ad-hoc business intelligence to branch and regional leadership.
 
-### **Vijay Nirman Company – Planning Engineer**
+### **Project & Client Coordinator** — Vijay Nirman Company
 *Apr 2014 – Jun 2015 | Delhi, India*
-Planned construction schedules, coordinated site operations, and improved workflows through technical analysis.
+- Tracked project performance metrics, producing structured reports on timelines, milestones, and resource utilisation for management review.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**MSc in Data Science** – Heriot Watt University, UK
-
-**BEng in Civil Engineering** – University of Kashmir, India
+- **MSc Data Science** — Heriot-Watt University, Edinburgh, UK *(2022 – 2023)*
+  *Capstone: ML-based Parkinson's Diagnosis · Focus: Predictive Modelling, Statistical Analysis*
+- **BEng Civil Engineering** — University of Kashmir, India *(2008 – 2012)*
+- **Supervised Machine Learning: Regression & Classification** — Coursera
 
 ---
 
